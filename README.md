@@ -1,8 +1,10 @@
 # ML-for-BioStats
 
-## Materials
+## Resources for R users 
 
-https://www.mrc-bsu.cam.ac.uk/
+- https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html
+
+- https://www.mrc-bsu.cam.ac.uk/
 
 ## Notebooks
 
