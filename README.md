@@ -1,17 +1,13 @@
 # ML-for-BioStats
 
-## Algorithm
-
-- [Tutorial article on meta-learning
-](https://link.springer.com/content/pdf/10.1007/s10488-023-01303-9.pdf)
-- ...
-
-
 ## Training grounds
 
 - Completely new to R: [Dive right into R via Colab short demo](https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb)
 
 ## Resources for R users 
+
+- [Tutorial article on meta-learning
+](https://link.springer.com/content/pdf/10.1007/s10488-023-01303-9.pdf)
 
 - https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html
 
