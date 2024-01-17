@@ -1,5 +1,13 @@
 # ML-for-BioStats
 
+## Free platforms to get started 
+
+Below are platforms that allow users quick start, after signing up for a free account
+- Colab (existing Gmail account is sufficient) 
+- Kaggle
+- DeepNote 
+- Posit Cloud (caveats: R only; the startup time may be a bit longer than the other choices)
+
 ## Training grounds
 
 - Completely new to R: [Dive right into R via Colab short demo](https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb)
