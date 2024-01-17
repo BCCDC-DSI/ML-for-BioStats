@@ -1,5 +1,9 @@
 # ML-for-BioStats
 
+## Training grounds
+
+- Completely new to R: [Dive right into R via Colab short demo](https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb)
+
 ## Resources for R users 
 
 - https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html
