@@ -6,7 +6,7 @@
 
 - https://www.mrc-bsu.cam.ac.uk/
 
-## Notebooks
+## Interactive notebooks
 
 | Analysis task | Date of last  successful run | Notes |
 | :-- | :-- | :-- | 
