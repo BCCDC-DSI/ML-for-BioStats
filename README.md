@@ -8,18 +8,17 @@ Below are platforms that allow users quick start, after signing up for a free ac
 - DeepNote 
 - Posit Cloud (caveats: R only; the startup time may be a bit longer than the other choices)
 
-## Training grounds
+## ML playgrounds
 
+- [Matlab | Co-coding](https://www.mathworks.com/matlabcentral/playground/new)
+- [Various in PowerBI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-covid-19-us)
 - Completely new to R: [Dive right into R via Colab short demo](https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb)
 
-## Resources for R users 
+## Resources for fluent R users 
 
 - [Tutorial article on meta-learning](https://link.springer.com/content/pdf/10.1007/s10488-023-01303-9.pdf)
-
 - https://lgatto.github.io/IntroMachineLearningWithR/an-introduction-to-machine-learning-with-r.html
-
 - https://www.mrc-bsu.cam.ac.uk/
-
 
 ## Interactive notebooks (Python & R)
 
