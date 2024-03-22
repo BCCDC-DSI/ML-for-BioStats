@@ -2,7 +2,7 @@
 
 ## Talks
 
-| Last publishing dat | Link |
+| Last publishing date| Link |
 | :-- | :-- |
 | Feb 2024 | CAIDA on [youTube](https://www.youtube.com/channel/UCjHD13dOZpfTRDABiuSWqPQ) **newly added**  |
 
