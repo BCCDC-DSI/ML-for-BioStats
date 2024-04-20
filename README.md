@@ -17,6 +17,7 @@ Below are platforms that allow users quick start, after signing up for a free ac
 
 ## ML playgrounds
 
+- **New!** [Lightweight automl](https://pypi.org/project/bluecast/)
 - [Matlab](https://www.mathworks.com/matlabcentral/playground/new): Co-coding
 - [PowerBI](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-covid-19-us): COVID and various example projects
 - Completely new to R: [Dive right into R via Colab short demo](https://colab.research.google.com/github/IRkernel/IRkernel/blob/master/example-notebooks/Demo.ipynb)
