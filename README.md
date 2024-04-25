@@ -2,6 +2,12 @@
 
 # About
 
+[under construction]
+
+## Concepts
+
+[Resources](concepts)
+
 ## Related links
 
 ### Talks
