@@ -1,3 +1,5 @@
+[view this as GitPages](https://lisatwyw.github.io/ML-for-BioStats/)
+
 # ML-for-BioStats
 
 # About
