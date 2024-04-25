@@ -10,13 +10,10 @@ https://sites.aub.edu.lb/aliyassine/2020/12/16/math-models-versus-machine-learni
 
 ## Taxonomy
 
-References:
-[Saleem et al. 2022](https://www.mdpi.com/1660-4601/19/9/5099#B35-ijerph-19-05099)
-
 - Mathematical / statistical models
   - regression
   - exponential growth model 
-  - ARIMA
+  - Auto-Regressive Integrated Moving Average 
   - GAM
   - Facebook Prophet
   - SIR Model (Susceptible, Infectious, Recovered), and its variatns:
@@ -35,6 +32,14 @@ References:
   - CNN
   - Transformers
     - Large-language models
+    - ...
+
+### Hybrid
+- LSTM + (ARIMA) to forecast next 60 days 
+
+References:
+[Saleem et al. 2022](https://www.mdpi.com/1660-4601/19/9/5099#B35-ijerph-19-05099)
+
 
 ## Semi-supervised methods
 
@@ -42,5 +47,6 @@ References:
 
 ## Objective functions vs evaluation metrics 
 
-[coming soon]
+- Regression: R0, R2, MAPE, MAE, MSE, and RMSE 
+- ...
 
